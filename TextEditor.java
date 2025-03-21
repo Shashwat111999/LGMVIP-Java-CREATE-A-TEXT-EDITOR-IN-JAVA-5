@@ -11,6 +11,8 @@ public class TextEditor extends JFrame implements ActionListener {
     private JMenu fileMenu, editMenu;
     private JMenuItem newFile, openFile, saveFile, saveAndSubmit, closeFile, cutText, copyText, pasteText;
 
+// Demooo Git
+
     public TextEditor() {
         setTitle("Text Editor");
         setSize(600, 400);
