@@ -107,7 +107,7 @@ public class TextEditor extends JFrame implements ActionListener {
         } else if (e.getSource() == pasteText) {
             textArea.paste();
         }
-    }
+    }  
 
     public static void main(String[] args) {
         new TextEditor();
